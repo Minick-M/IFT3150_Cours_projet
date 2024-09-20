@@ -4,17 +4,12 @@ L'application OUPS! a été mise au point par le Laboratoire Santé des femmes e
 
 Le laboratoire de langages de programmation et compilation dirigé par Marc Feeley (Ph. D.), professeur titulaire du DIRO, a été mandaté en mai dernier pour la seconde phase du développement de l'application. Cette phase consiste à intégrer la biofeedback de l'objet connecté Bluetooth à l'application mobile. L'été dernier, une partie de ce travail a été effectuée: développement du firmware de l'objet connecté, amélioration du UI de l'application et prototypage de l'affichage du biofeedback en temps réel lors des exercices. Le dernier point a été le coeur de mon stage l'été dernier. 
 
-Mon travail pour le cours IFT3150 s'inscrira donc dans la continuité de mon travail. Il comportera deux volets : 
-1. L'intégration dans l'application mobile de l'affichage du biofeedback en temps réel lors des exercices. Cette intégration sera basée sur le prototype que j'ai programmé cet été. 
-2. Développement d'un algorithme permettant de détecter les mauvaises contractions. Cet algorithme sera basé sur des données réelles, enregistrées chez des patientes.
-À la fin de mon travail, l'application mobile devrait être en mesure de se connecter à l'object connecté, faire l'affichage de données captées par celui-ci, tout en détectant les mauvaises contractions lors des exercices. 
-
 ## Description détaillée
-Volet 1: Intégration d'un système de biofeedback en temps réel pour l'amélioration des exercices du plancher pelvien dans l'application Oups!
+Mon travail pour le cours IFT3150 s'inscrira donc dans la continuité de mon travail. Il comportera deux volets : 
+1. Intégration d'un système de biofeedback en temps réel pour l'amélioration des exercices du plancher pelvien dans l'application Oups! Le prototype actuel, que j'ai programmé en javascript, est conçu sous la forme d'un jeu permettant à la patiente de visualiser et d'ajuster ses efforts pendant les exercices. Cependant, ce prototype fonctionne uniquement dans un furteur, avec des données fictives.
+2. Développement d'un algorithme afin de déterminer si les contractions du plancher pelvien sont effectuées correctement. Cette algorithme sera basé sur l'analyse des données collectées par un objet connecté Bluetooth mesurant les pressions et mouvements via des capteurs: gyroscope, accéléromètre et capteur de force.
 
-Volet 2: Analyse des données collectées par un objet connecté Bluetooth mesurant les pressions et mouvements via des capteurs: gyroscope, accéléromètre et capteur de force, afin de déterminer si les contractions du plancher pelvien sont effectuées correctement.
-
-Le système permettra de guider les utilisatrices à travers des exercices hebdomadaires de contraction du plancher pelvien. Grâce à un objet connecté équipé de capteurs de force, d'un accéléromètre et d'un gyroscope, l'application évaluera la qualité des contractions et fournira des retours en temps réel. Le prototype actuel, programmé en javascript, est conçu sous la forme d'un jeu permettant à la patiente de visualiser et d'ajuster ses efforts pendant les exercices. Cependant, ce prototype fonctionne uniquement dans un furteur, et avec des données fictives.
+À la fin de mon travail, le système permettra de guider les utilisatrices à travers des exercices hebdomadaires de contraction du plancher pelvien. Grâce à un objet connecté équipé de capteurs de force, d'un accéléromètre et d'un gyroscope, l'application évaluera la qualité des contractions et fournira des retours en temps réel. 
 
 ### Environnement et contraintes techniques : 
 L'application mobile est programmée en JavaScript, avec le framework Ionic/Angular pour la création de l'interface utilisateur et la génération d'applications iOS et Android. 
