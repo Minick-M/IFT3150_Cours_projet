@@ -19,9 +19,11 @@ Date de début : 20 septembre 2024
 Date de fin : 9 décembre 2024
 
 ### Autres Dates prévues :
-Intégration du module de traitement des données : 15 octobre 2024
-Développement de l'interface de feedback en temps réel : 1er novembre 2024
-Vérification et validation des modules principaux : 1er décembre 2024
+**Volet 1 : integration du biofeedback** : 20 septembre au 15 octobre
+**Vérification, testing et validation du volet 1** : 15 octobre au 1er decembre
+**Volet 2 : Developpement de l'algorithme**: 15 octobre au 15 novembre
+**Vérification, testing et validation du volet 2** : 15 novembre au 1er décembre
+**Écriture du rapport et préparation de la présentation** : 1er au 9 décembre
 
 
 
