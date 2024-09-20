@@ -9,12 +9,12 @@ Mon travail pour le cours IFT3150 s'inscrira dans la lignée de ce qui a été p
 ## Description détaillée
 Intégration d'un système de biofeedback en temps réel pour l'amélioration des exercices du plancher pelvien dans l'application Oups!
 
-## Spécification fonctionnelle
+### Spécification fonctionnelle
 
 Le système intégré permet de guider les utilisatrices à travers des exercices hebdomadaires de contraction du plancher pelvien. Grâce à un objet connecté équipé de capteurs de force, d'un accéléromètre et d'un gyroscope, l'application évalue la qualité des contractions et fournit des retours en temps réel. Le prototype a intégré présente un jeu qui permet à la patiente de visualiser et d'ajuster ses efforts pendant les exercices. 
 L'application utilise un appareil connecté Bluetooth pour capturer les données des capteurs. Les données collectées sont analysées pour déterminer si les contractions du plancher pelvien sont effectuées correctement.
 
-## Environnement et contraintes techniques : 
+### Environnement et contraintes techniques : 
 L'application mobile est programmée en JavaScript, avec le framework Ionic/Angular pour la création de l'interface utilisateur et la génération d'applications iOS et Android. 
 Prérequis techniques : Node.js (v16), Ionic CLI, Angular CLI, CocoaPods (pour iOS), XCode Command Line Tools.
 
@@ -36,7 +36,7 @@ Discussions avec l'usager : Tests et feedback des utilisatrices pour améliorer 
 Date de début : 1er septembre 2024
 Date de fin : 15 décembre 2024
 
-## Autres Dates prévues :
+### Autres Dates prévues :
 Intégration du module de traitement des données : 15 octobre 2024
 Développement de l'interface de feedback en temps réel : 1er novembre 2024
 Vérification et validation des modules principaux : 1er décembre 2024
