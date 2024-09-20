@@ -2,7 +2,17 @@
 
 L'application OUPS! a été mise au point par le Laboratoire Santé des femmes et vieillisement, dirigé par la professeure Chantale Dumoulin (Ph.D.), physiothérapeute et professeure titulaire à l'École de réadaptation de l'Université de Montréal. Dans le cadre de leurs recherches, l’équipe et ses partenaires ont développé l'application mobile Oups!, qui offre un programme de réhabilitation pelvienne. Plus particulièrement, les utilisatrices sont guidés à travers des séries d'exercices hebdomadaires sur 12 semaines conçus pour renforcer le plancher pelvien. Elles sont accompagnées par des capsules éducatives et de motivation. Basée sur des données probantes, le programme a pour but de réduire, voire éliminer, les symptômes d'incontinence urinaire chez les femmes ménopausées. L'application Oups! a été créée pour permettre à un grand nombre de femmes d'avoir accès à ce programme d'exercices.
 
-Le laboratoire de langages de programmation et compilation dirigé par Marc Feeley (Ph. D.), professeur titulaire du DIRO, a été mandaté en mai dernier pour la seconde phase du développement de l'application. Certaines composantes doivent être retravaillée et certaines demeurent encore à être développer. Mon travail pour le cours IFT3150 s'inscrira donc dans la continuité de mon travail de l'été dernier. Il fera suite à mon travail durant l'été.  projet consiste à intégrer un prototype de "jeu" ou d'affichage de données dans l'application mobile Oups!, destinée à aider les femmes ménopausées à réduire les symptômes d'incontinence urinaire à travers un programme d'exercices. L'objectif est de permettre aux utilisatrices de suivre et d'améliorer leurs exercices de contraction du plancher pelvien en temps réel à l'aide d'un objet connecté Bluetooth mesurant les pressions et mouvements via des capteurs: gyroscope, accéléromètre et capteur de force. Les données collectées sont analysées pour déterminer si les contractions du plancher pelvien sont effectuées correctement.
+Le laboratoire de langages de programmation et compilation dirigé par Marc Feeley (Ph. D.), professeur titulaire du DIRO, a été mandaté en mai dernier pour la seconde phase du développement de l'application. Cette phase consiste à intégrer la biofeedback de l'objet connecté Bluetooth à l'application mobile. L'été dernier, une partie de ce travail a été effectuée: développement du firmware de l'objet connecté, amélioration du UI de l'application et prototypage de l'affichage du biofeedback en temps réel lors des exercices. Le dernier point a été le coeur de mon stage l'été dernier. 
+
+Mon travail pour le cours IFT3150 s'inscrira donc dans la continuité de mon travail. Il comportera deux volets : 
+1. L'intégration dans l'application mobile de l'affichage du biofeedback en temps réel lors des exercices. Cette intégration sera basée sur le prototype que j'ai programmé cet été. 
+2. Développement d'un algorithme permettant de détecter les mauvaises contractions. Cet algorithme sera basé sur des données réelles, enregistrées chez des patientes.
+
+À la fin de mon travail, l'application mobile devrait être en mesure de se connecter à l'object connecté, faire l'affichage de données captées par celui-ci, tout en détectant les mauvaises contractions lors des exercices. 
+
+
+
+un objet connecté Bluetooth mesurant les pressions et mouvements via des capteurs: gyroscope, accéléromètre et capteur de force. Les données collectées sont analysées pour déterminer si les contractions du plancher pelvien sont effectuées correctement.
 
 ## Description détaillée
 Intégration d'un système de biofeedback en temps réel pour l'amélioration des exercices du plancher pelvien dans l'application Oups!
