@@ -13,31 +13,17 @@ Mon travail pour le cours IFT3150 s'inscrira donc dans la continuité de mon tra
 
 ### Environnement et contraintes techniques : 
 L'application mobile est programmée en JavaScript, avec le framework Ionic/Angular pour la création de l'interface utilisateur et la génération d'applications iOS et Android. 
-Prérequis techniques : Node.js (v16), Ionic CLI, Angular CLI, CocoaPods (pour iOS), XCode Command Line Tools.
-
-Architecture logicielle :
-L'application est divisée en plusieurs modules :
-
-Interface utilisateur : Créée avec Angular et Ionic, elle permet l'affichage des résultats des exercices en temps réel.
-Module de traitement des données des capteurs : Utilisation des données captées (force, orientation, mouvement) pour déterminer la qualité des exercices.
-
-Système de feedback en temps réel : Affichage interactif sous forme de jeu pour guider les utilisatrices pendant leurs exercices.
-Modules principaux :
-
-Capteurs et détection des mouvements : Utilisation des données fournies par les capteurs pour évaluer la force et la direction des contractions.
-Affichage interactif : Présentation des résultats via une interface graphique utilisant des éléments de jeu pour encourager la progression.
-Feedback utilisateur : Détermination si l'exercice est bien ou mal effectué selon des critères prédéfinis.
-Discussions avec l'usager : Tests et feedback des utilisatrices pour améliorer l'expérience et l'ergonomie.
 
 ## Plan de développement :
-Date de début : 1er septembre 2024
-Date de fin : 15 décembre 2024
+Date de début : 20 septembre 2024
+Date de fin : 9 décembre 2024
 
 ### Autres Dates prévues :
 Intégration du module de traitement des données : 15 octobre 2024
 Développement de l'interface de feedback en temps réel : 1er novembre 2024
 Vérification et validation des modules principaux : 1er décembre 2024
-Cette description devrait répondre aux exigences du cours et mettre en valeur ton travail sur le projet Oups!
+
+
 
 
 
