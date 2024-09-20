@@ -9,16 +9,12 @@ Mon travail pour le cours IFT3150 s'inscrira donc dans la continuité de mon tra
 2. Développement d'un algorithme permettant de détecter les mauvaises contractions. Cet algorithme sera basé sur des données réelles, enregistrées chez des patientes.
 À la fin de mon travail, l'application mobile devrait être en mesure de se connecter à l'object connecté, faire l'affichage de données captées par celui-ci, tout en détectant les mauvaises contractions lors des exercices. 
 
-
-
-un objet connecté Bluetooth mesurant les pressions et mouvements via des capteurs: gyroscope, accéléromètre et capteur de force. Les données collectées sont analysées pour déterminer si les contractions du plancher pelvien sont effectuées correctement.
-
 ## Description détaillée
-Intégration d'un système de biofeedback en temps réel pour l'amélioration des exercices du plancher pelvien dans l'application Oups!
+Volet 1: Intégration d'un système de biofeedback en temps réel pour l'amélioration des exercices du plancher pelvien dans l'application Oups!
 
-### Spécification fonctionnelle
+Volet 2: Analyse des données collectées par un objet connecté Bluetooth mesurant les pressions et mouvements via des capteurs: gyroscope, accéléromètre et capteur de force, afin de déterminer si les contractions du plancher pelvien sont effectuées correctement.
 
-Le système intégré permet de guider les utilisatrices à travers des exercices hebdomadaires de contraction du plancher pelvien. Grâce à un objet connecté équipé de capteurs de force, d'un accéléromètre et d'un gyroscope, l'application évalue la qualité des contractions et fournit des retours en temps réel. Le prototype a intégré présente un jeu qui permet à la patiente de visualiser et d'ajuster ses efforts pendant les exercices. 
+Le système permettra de guider les utilisatrices à travers des exercices hebdomadaires de contraction du plancher pelvien. Grâce à un objet connecté équipé de capteurs de force, d'un accéléromètre et d'un gyroscope, l'application évaluera la qualité des contractions et fournira des retours en temps réel. Le prototype actuel, programmé en javascript, est conçu sous la forme d'un jeu permettant à la patiente de visualiser et d'ajuster ses efforts pendant les exercices. Cependant, ce prototype fonctionne uniquement dans un furteur, et avec des données fictives.
 
 ### Environnement et contraintes techniques : 
 L'application mobile est programmée en JavaScript, avec le framework Ionic/Angular pour la création de l'interface utilisateur et la génération d'applications iOS et Android. 
