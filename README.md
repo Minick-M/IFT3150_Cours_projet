@@ -15,15 +15,15 @@ Mon travail pour le cours IFT3150 s'inscrira donc dans la continuité de mon tra
 L'application mobile est programmée en JavaScript, avec le framework Ionic/Angular pour la création de l'interface utilisateur et la génération d'applications iOS et Android. 
 
 ## Plan de développement :
-Date de début : 20 septembre 2024
-Date de fin : 9 décembre 2024
+- Date de début : 20 septembre 2024
+- Date de fin : 9 décembre 2024
 
 ### Autres Dates prévues :
-**Volet 1 : integration du biofeedback** : 20 septembre au 15 octobre
-**Vérification, testing et validation du volet 1** : 15 octobre au 1er decembre
-**Volet 2 : Developpement de l'algorithme**: 15 octobre au 15 novembre
-**Vérification, testing et validation du volet 2** : 15 novembre au 1er décembre
-**Écriture du rapport et préparation de la présentation** : 1er au 9 décembre
+- **Volet 1 : integration du biofeedback** : 20 septembre au 15 octobre
+- **Vérification, testing et validation du volet 1** : 15 octobre au 1er decembre
+- **Volet 2 : Developpement de l'algorithme**: 15 octobre au 15 novembre
+- **Vérification, testing et validation du volet 2** : 15 novembre au 1er décembre
+- **Écriture du rapport et préparation de la présentation** : 1er au 9 décembre
 
 
 
