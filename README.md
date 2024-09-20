@@ -1,8 +1,10 @@
-# IFT3150 Cours projet
+# Introduction sur l'application OUPS!
 
-INTRO DE L'APPLICATION
+L'application OUPS! a été mise au point par le Laboratoire Santé des femmes et vieillisement,dirigé par la professeure Chantale Dumoulin (Ph.D.), physiothérapeute et professeure titulaire à l'École de réadaptation de l'Université de Montréal. Dans le cadre de leurs recherches, l’équipe et ses partenaires ont développé l'application mobile Oups!, qui offre un programme de réhabilitation pelvienne. Plus particulièrement, les utilisatrices sont guidés à travers des séries d'exercices hebdomadaires sur 12 semaines conçus pour renforcer le plancher pelvien. Elles sont accompagné par des capsules éducatives et de motivation. Basée sur des données probantes, le programme a pour but de réduire, voire éliminer, les symptômes d'incontinence urinaire chez les femmes ménopausées. 
 
-Le projet consiste à intégrer un prototype de "jeu" ou d'affichage de données dans l'application mobile Oups!, destinée à aider les femmes ménopausées à réduire les symptômes d'incontinence urinaire à travers un programme d'exercices. L'objectif est de permettre aux utilisatrices de suivre et d'améliorer leurs exercices de contraction du plancher pelvien en temps réel à l'aide d'un objet connecté Bluetooth mesurant les pressions et mouvements via des capteurs.
+Une première version de l'application a été développée précédemment. Certaines composantes devait être retravaillée et certaines complètement demeurent encore à être développer. En particulier, 
+
+Mon travail pour le cours IFT3150 s'inscrira dans la lignée de ce qui a été précédemment développé par l'équipe du Laboratoire Dumoulin, et par l'équipe du Laboratoire dirigé par Marc Feeley. Il fera suite à mon travail durant l'été.  projet consiste à intégrer un prototype de "jeu" ou d'affichage de données dans l'application mobile Oups!, destinée à aider les femmes ménopausées à réduire les symptômes d'incontinence urinaire à travers un programme d'exercices. L'objectif est de permettre aux utilisatrices de suivre et d'améliorer leurs exercices de contraction du plancher pelvien en temps réel à l'aide d'un objet connecté Bluetooth mesurant les pressions et mouvements via des capteurs.
 
 ## Description détaillée
 Intégration d'un système de biofeedback en temps réel pour l'amélioration des exercices du plancher pelvien dans l'application Oups!
